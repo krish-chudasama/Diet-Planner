@@ -1,0 +1,221 @@
+meal_name,calories,protein,carbs,fat,diet_type,meal_category
+Oatmeal with Almond Milk and Banana,350,8,60,7,Vegetarian,Breakfast
+Greek Yogurt with Honey,200,10,20,5,Vegetarian,Morning Snack
+Whole Grain Toast with Avocado and Egg,380,15,40,18,Vegetarian,Breakfast
+Cottage Cheese with Pineapple,250,20,30,5,Vegetarian,Morning Snack
+Mushroom Risotto,480,12,60,15,Vegetarian,Dinner
+Quinoa Salad with Veggies,400,12,50,10,Vegan,Lunch
+Lentil Curry with Brown Rice,450,18,60,8,Vegan,Dinner
+Chickpea Salad,350,14,45,9,Vegan,Lunch
+Smoothie with Protein Powder,300,25,40,5,Vegan,Breakfast
+Hummus with Carrot Sticks,220,7,25,10,Vegan,Afternoon Snack
+Vegetable Stir-fry with Quinoa,400,12,55,9,Vegan,Dinner
+Falafel Wrap,450,15,55,12,Vegan,Lunch
+Stuffed Bell Peppers with Quinoa,400,14,50,9,Vegan,Dinner
+Pancakes with Banana and Maple Syrup,350,8,60,7,Vegan,Breakfast
+Grilled Chicken with Brown Rice,500,45,50,12,Non-Vegetarian,Lunch
+Omelette with Whole Wheat Toast,400,22,35,15,Non-Vegetarian,Breakfast
+Salmon with Quinoa and Veggies,550,40,50,18,Non-Vegetarian,Dinner
+Scrambled Eggs with Avocado,380,18,25,22,Non-Vegetarian,Breakfast
+Turkey Sandwich with Whole Grain Bread,450,30,55,10,Non-Vegetarian,Lunch
+Beef Stir-Fry with Rice,600,50,60,20,Non-Vegetarian,Dinner
+Grilled Dish 67,453,50,51,20,Non-Vegetarian,Breakfast
+Nut Mix 78,575,43,37,14,Vegetarian,Lunch
+Grilled Dish 46,317,30,48,19,Vegan,Dinner
+Protein Bowl 29,316,43,62,9,Non-Vegetarian,Morning Snack
+Nut Mix 83,580,28,47,12,Vegetarian,Breakfast
+Green Delight 21,553,45,26,7,Vegan,Breakfast
+Super Oats 61,550,23,48,15,Vegan,Morning Snack
+Protein Bowl 36,474,17,69,10,Non-Vegetarian,Morning Snack
+Green Delight 91,419,44,33,5,Vegetarian,Breakfast
+Power Salad 37,297,6,23,20,Vegetarian,Breakfast
+Quinoa Special 69,595,10,67,19,Vegetarian,Dinner
+Green Delight 33,451,44,40,6,Vegan,Morning Snack
+Power Salad 50,358,35,22,18,Non-Vegetarian,Afternoon Snack
+Power Salad 19,401,19,46,12,Vegan,Breakfast
+Power Salad 42,300,9,45,20,Vegetarian,Morning Snack
+Green Delight 90,252,27,51,12,Non-Vegetarian,Morning Snack
+Energy Smoothie 26,550,14,49,16,Vegan,Afternoon Snack
+Protein Bowl 7,270,48,54,14,Vegan,Breakfast
+Healthy Meal 82,215,34,30,6,Vegetarian,Breakfast
+Stir-Fry Special 14,268,22,31,16,Non-Vegetarian,Lunch
+Super Oats 55,476,38,61,8,Vegetarian,Breakfast
+Power Salad 50,292,49,62,15,Vegetarian,Afternoon Snack
+Power Salad 41,277,25,62,20,Vegetarian,Morning Snack
+Green Delight 4,386,28,47,14,Vegetarian,Breakfast
+Stir-Fry Special 1,366,49,40,11,Vegan,Morning Snack
+Nut Mix 59,485,28,33,11,Vegetarian,Breakfast
+Grilled Dish 18,386,13,52,6,Vegetarian,Lunch
+Healthy Meal 77,445,25,25,13,Vegan,Lunch
+Nut Mix 74,365,30,31,18,Vegan,Lunch
+Protein Bowl 9,366,42,60,18,Vegan,Lunch
+Nut Mix 50,316,39,69,16,Vegetarian,Afternoon Snack
+Green Delight 93,339,44,38,10,Vegetarian,Breakfast
+Quinoa Special 53,451,8,58,8,Vegetarian,Lunch
+Stir-Fry Special 8,477,19,22,8,Vegetarian,Lunch
+Power Salad 13,272,16,28,18,Vegetarian,Breakfast
+Nut Mix 32,511,22,59,5,Vegetarian,Breakfast
+Nut Mix 46,280,49,47,19,Non-Vegetarian,Afternoon Snack
+Stir-Fry Special 32,331,12,70,6,Non-Vegetarian,Dinner
+Nut Mix 1,471,16,52,15,Vegan,Afternoon Snack
+Grilled Dish 100,545,41,46,16,Non-Vegetarian,Morning Snack
+Quinoa Special 73,398,8,51,17,Non-Vegetarian,Dinner
+Super Oats 27,433,12,29,17,Vegetarian,Afternoon Snack
+Grilled Dish 79,358,22,42,16,Vegan,Morning Snack
+Quinoa Special 74,528,39,69,6,Vegetarian,Afternoon Snack
+Healthy Meal 35,377,16,65,17,Vegetarian,Lunch
+Quinoa Special 97,406,20,59,16,Non-Vegetarian,Lunch
+Energy Smoothie 90,353,9,48,12,Vegetarian,Morning Snack
+Power Salad 57,580,23,54,14,Vegetarian,Morning Snack
+Energy Smoothie 72,334,26,29,8,Vegan,Dinner
+Energy Smoothie 44,411,34,58,9,Non-Vegetarian,Morning Snack
+Super Oats 4,488,26,39,19,Vegetarian,Dinner
+Quinoa Special 61,408,41,63,17,Vegan,Dinner
+Green Delight 56,594,17,40,17,Vegan,Afternoon Snack
+Quinoa Special 55,405,35,56,5,Vegetarian,Dinner
+Green Delight 14,554,22,37,13,Non-Vegetarian,Morning Snack
+Healthy Meal 6,243,32,27,17,Non-Vegetarian,Breakfast
+Healthy Meal 47,599,32,54,18,Vegan,Lunch
+Quinoa Special 8,477,10,40,13,Vegetarian,Breakfast
+Protein Bowl 32,333,32,38,5,Vegan,Morning Snack
+Stir-Fry Special 97,318,34,63,15,Vegan,Breakfast
+Super Oats 25,328,42,67,7,Vegan,Breakfast
+Healthy Meal 27,301,24,59,14,Vegetarian,Afternoon Snack
+Nut Mix 10,470,38,66,20,Vegan,Dinner
+Quinoa Special 42,418,44,56,17,Vegetarian,Morning Snack
+Power Salad 54,218,5,62,16,Non-Vegetarian,Breakfast
+Quinoa Special 96,208,45,39,13,Vegan,Afternoon Snack
+Grilled Dish 67,481,15,32,9,Vegetarian,Breakfast
+Grilled Dish 21,255,28,66,6,Non-Vegetarian,Afternoon Snack
+Power Salad 57,478,13,24,19,Vegetarian,Dinner
+Protein Bowl 73,206,8,37,16,Vegan,Morning Snack
+Healthy Meal 54,200,41,41,13,Vegan,Morning Snack
+Grilled Dish 53,217,37,33,6,Vegetarian,Breakfast
+Grilled Dish 32,306,34,50,12,Non-Vegetarian,Breakfast
+Protein Bowl 35,236,11,56,16,Non-Vegetarian,Dinner
+Protein Bowl 13,444,15,60,10,Vegetarian,Afternoon Snack
+Nut Mix 88,569,29,47,8,Vegan,Afternoon Snack
+Super Oats 30,565,14,56,6,Non-Vegetarian,Afternoon Snack
+Quinoa Special 79,493,22,61,7,Vegetarian,Afternoon Snack
+Grilled Dish 7,504,47,20,12,Vegetarian,Afternoon Snack
+Nut Mix 38,308,44,62,10,Vegetarian,Breakfast
+Healthy Meal 9,475,46,38,12,Vegetarian,Afternoon Snack
+Nut Mix 10,230,19,55,8,Vegetarian,Dinner
+Protein Bowl 63,411,25,32,9,Vegan,Morning Snack
+Healthy Meal 66,505,7,41,18,Vegetarian,Morning Snack
+Power Salad 22,421,39,44,17,Non-Vegetarian,Lunch
+Stir-Fry Special 100,467,15,26,17,Vegan,Breakfast
+Healthy Meal 62,526,6,68,12,Non-Vegetarian,Breakfast
+Energy Smoothie 5,499,19,64,19,Vegan,Lunch
+Green Delight 3,229,23,70,7,Vegetarian,Afternoon Snack
+Protein Bowl 95,374,47,24,6,Vegan,Breakfast
+Power Salad 74,358,25,45,17,Non-Vegetarian,Dinner
+Nut Mix 14,368,6,56,14,Non-Vegetarian,Morning Snack
+Energy Smoothie 3,484,15,62,14,Non-Vegetarian,Breakfast
+Grilled Dish 39,412,19,55,5,Vegetarian,Morning Snack
+Stir-Fry Special 53,568,32,23,18,Non-Vegetarian,Afternoon Snack
+Nut Mix 89,500,37,56,5,Non-Vegetarian,Breakfast
+Energy Smoothie 22,288,14,51,14,Non-Vegetarian,Afternoon Snack
+Super Oats 41,392,34,57,14,Vegetarian,Afternoon Snack
+Quinoa Special 40,349,12,40,10,Vegetarian,Breakfast
+Power Salad 87,568,11,48,9,Vegan,Afternoon Snack
+Green Delight 60,229,41,26,7,Non-Vegetarian,Afternoon Snack
+Healthy Meal 32,460,45,24,15,Vegan,Morning Snack
+Healthy Meal 48,213,28,37,6,Vegan,Dinner
+Healthy Meal 50,472,33,52,17,Vegetarian,Breakfast
+Energy Smoothie 7,339,49,28,15,Vegetarian,Lunch
+Healthy Meal 77,326,16,52,12,Vegan,Dinner
+Stir-Fry Special 9,402,47,31,19,Vegetarian,Dinner
+Stir-Fry Special 2,477,22,68,8,Non-Vegetarian,Breakfast
+Power Salad 31,537,40,50,17,Vegan,Breakfast
+Stir-Fry Special 19,410,36,60,19,Vegan,Morning Snack
+Super Oats 95,527,11,62,12,Vegetarian,Dinner
+Grilled Dish 96,230,28,60,6,Vegetarian,Lunch
+Energy Smoothie 90,351,33,50,10,Vegetarian,Afternoon Snack
+Super Oats 68,354,50,28,20,Vegan,Breakfast
+Energy Smoothie 100,240,6,21,8,Non-Vegetarian,Lunch
+Stir-Fry Special 38,364,29,63,9,Non-Vegetarian,Lunch
+Energy Smoothie 71,447,5,61,13,Vegetarian,Morning Snack
+Power Salad 87,281,19,36,8,Vegan,Dinner
+Healthy Meal 36,284,13,36,17,Vegan,Afternoon Snack
+Grilled Dish 51,372,41,41,8,Non-Vegetarian,Morning Snack
+Green Delight 48,476,50,64,18,Vegan,Dinner
+Healthy Meal 7,379,38,37,9,Non-Vegetarian,Lunch
+Energy Smoothie 53,500,11,29,5,Vegetarian,Morning Snack
+Nut Mix 71,201,50,33,8,Non-Vegetarian,Morning Snack
+Green Delight 40,341,6,21,6,Non-Vegetarian,Morning Snack
+Super Oats 49,460,34,48,15,Vegetarian,Afternoon Snack
+Super Oats 20,302,7,43,20,Vegan,Morning Snack
+Protein Bowl 50,563,20,20,11,Non-Vegetarian,Breakfast
+Protein Bowl 37,503,11,40,9,Vegetarian,Lunch
+Grilled Dish 69,484,37,57,13,Vegetarian,Dinner
+Nut Mix 70,589,34,24,14,Vegetarian,Afternoon Snack
+Energy Smoothie 7,516,5,66,5,Non-Vegetarian,Afternoon Snack
+Nut Mix 59,440,35,60,20,Vegan,Afternoon Snack
+Grilled Dish 78,557,17,61,18,Non-Vegetarian,Lunch
+Quinoa Special 99,500,19,54,14,Vegetarian,Breakfast
+Quinoa Special 97,481,23,38,5,Vegetarian,Afternoon Snack
+Power Salad 56,302,17,33,10,Non-Vegetarian,Lunch
+Nut Mix 36,240,24,51,10,Vegetarian,Afternoon Snack
+Stir-Fry Special 91,423,14,34,7,Vegan,Afternoon Snack
+Super Oats 13,223,20,35,5,Vegan,Afternoon Snack
+Energy Smoothie 84,527,24,31,17,Non-Vegetarian,Breakfast
+Nut Mix 14,451,20,26,7,Vegetarian,Breakfast
+Nut Mix 85,533,5,26,11,Vegetarian,Afternoon Snack
+Power Salad 66,245,27,61,7,Non-Vegetarian,Dinner
+Energy Smoothie 61,440,35,34,17,Vegetarian,Dinner
+Stir-Fry Special 33,509,22,44,6,Vegan,Afternoon Snack
+Grilled Dish 39,479,21,63,20,Vegetarian,Afternoon Snack
+Quinoa Special 92,566,40,28,7,Vegetarian,Morning Snack
+Green Delight 65,399,7,53,15,Vegetarian,Afternoon Snack
+Protein Bowl 2,468,24,52,20,Non-Vegetarian,Morning Snack
+Protein Bowl 51,253,39,32,7,Vegan,Morning Snack
+Stir-Fry Special 89,430,40,24,12,Non-Vegetarian,Dinner
+Nut Mix 2,282,14,22,15,Non-Vegetarian,Afternoon Snack
+Power Salad 84,559,16,49,9,Vegetarian,Dinner
+Nut Mix 61,488,50,22,18,Non-Vegetarian,Morning Snack
+Green Delight 71,299,42,50,7,Non-Vegetarian,Afternoon Snack
+Grilled Dish 57,386,11,66,9,Non-Vegetarian,Lunch
+Protein Bowl 5,563,14,52,20,Vegetarian,Dinner
+Energy Smoothie 76,341,25,20,7,Vegan,Dinner
+Super Oats 15,288,21,32,16,Non-Vegetarian,Breakfast
+Power Salad 72,202,49,33,18,Vegan,Dinner
+Quinoa Special 54,382,10,70,10,Vegetarian,Morning Snack
+Power Salad 27,257,43,64,16,Non-Vegetarian,Breakfast
+Quinoa Special 17,358,12,39,7,Vegetarian,Dinner
+Green Delight 1,311,45,44,16,Non-Vegetarian,Morning Snack
+Stir-Fry Special 66,569,46,57,12,Non-Vegetarian,Lunch
+Quinoa Special 70,209,15,26,14,Non-Vegetarian,Dinner
+Energy Smoothie 15,536,29,64,5,Vegetarian,Breakfast
+Nut Mix 72,301,15,59,11,Vegan,Afternoon Snack
+Quinoa Special 27,460,17,55,11,Vegan,Afternoon Snack
+Protein Bowl 73,336,39,27,6,Vegetarian,Dinner
+Protein Bowl 79,385,47,55,19,Vegetarian,Morning Snack
+Protein Bowl 22,574,43,64,20,Vegetarian,Morning Snack
+Stir-Fry Special 68,242,45,68,15,Non-Vegetarian,Morning Snack
+Energy Smoothie 100,257,12,61,12,Non-Vegetarian,Dinner
+Healthy Meal 54,388,39,52,16,Non-Vegetarian,Dinner
+Healthy Meal 5,488,43,28,17,Vegan,Dinner
+Energy Smoothie 52,410,19,23,9,Vegan,Lunch
+Energy Smoothie 56,479,26,56,8,Non-Vegetarian,Breakfast
+Super Oats 95,464,8,22,7,Non-Vegetarian,Dinner
+Healthy Meal 42,478,44,60,17,Vegetarian,Lunch
+Stir-Fry Special 85,207,11,62,19,Vegan,Lunch
+Healthy Meal 6,201,35,65,8,Vegan,Lunch
+Nut Mix 58,280,41,25,6,Non-Vegetarian,Afternoon Snack
+Healthy Meal 22,213,38,31,14,Vegetarian,Breakfast
+Nut Mix 96,538,49,47,15,Non-Vegetarian,Lunch
+Grilled Dish 74,508,14,29,17,Vegan,Lunch
+Green Delight 99,549,48,50,19,Vegetarian,Lunch
+Grilled Dish 39,428,6,56,17,Vegetarian,Breakfast
+Protein Bowl 99,469,25,69,7,Non-Vegetarian,Morning Snack
+Healthy Meal 90,597,31,45,7,Non-Vegetarian,Lunch
+Super Oats 24,320,22,48,15,Vegan,Morning Snack
+Stir-Fry Special 97,476,40,50,17,Non-Vegetarian,Afternoon Snack
+Super Oats 81,264,48,28,15,Vegetarian,Lunch
+Power Salad 33,270,21,62,11,Vegetarian,Lunch
+Quinoa Special 66,210,50,28,12,Vegetarian,Dinner
+Super Oats 62,431,7,54,17,Vegetarian,Breakfast
+Nut Mix 60,593,5,64,14,Vegan,Dinner
+Super Oats 68,405,28,42,7,Vegan,Breakfast
+Stir-Fry Special 10,250,11,24,18,Vegetarian,Morning Snack
